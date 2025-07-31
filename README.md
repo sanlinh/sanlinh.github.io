@@ -28,8 +28,7 @@ I am passionate about technology, programming, and continuous learning. My acade
 
 ## 📫 Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Email:** u6540187@au.edu
 
 ---
 
